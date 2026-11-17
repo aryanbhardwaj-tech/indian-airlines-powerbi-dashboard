@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard to compare Indian airlines on passenger traffic, customer ratings, fuel efficiency, CO₂ emissions, flight duration and estimated profit.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Templates/dashboard-preview.png)
 
 ## 📌 Overview
 This project analyses data for five airlines: **Air India, Akasa Air, IndiGo, SpiceJet and Star Air**. Users can switch between airlines and filter by route and destination city to see how each carrier performs.
@@ -28,8 +28,8 @@ This project analyses data for five airlines: **Air India, Akasa Air, IndiGo, Sp
 | `Airline_analysis.pbix` | Power BI report file |
 | `Airline_analysis.pdf` | PDF export of the dashboard |
 | `Indian_Airlines_Dataset.xlsx` | Source dataset |
-| `Templates/` | Dashboard background templates and Power BI template file |
-| `dashboard-preview.png` | Dashboard screenshot used in this README |
+| `Templates/` | Dashboard background templates, Power BI template file and preview image |
+| `Templates/dashboard-preview.png` | Dashboard screenshot used in this README |
 
 ## 🚀 How to Use
 1. Download `Airline_analysis.pbix`.
